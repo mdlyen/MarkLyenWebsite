@@ -28,20 +28,25 @@
     <Content Include="css\business-casual.css" />
     <Content Include="css\marklyen.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="footer.html" />
     <Content Include="img\bg.jpg" />
     <Content Include="img\intro-pic.jpg" />
     <Content Include="img\slide-1.jpg" />
     <Content Include="img\slide-2.jpg" />
     <Content Include="img\slide-3.jpg" />
+    <Content Include="img\slide-4.jpg" />
+    <Content Include="img\slide-5.jpg" />
     <Content Include="index.html" />
-    <Content Include="js\bootstrap.js" />
-    <Content Include="js\bootstrap.min.js" />
-    <Content Include="js\jquery.js" />
+    <Content Include="scripts\bootstrap.js" />
+    <Content Include="scripts\bootstrap.min.js" />
+    <Content Include="scripts\jquery.js" />
+    <Content Include="header.html" />
     <Content Include="resume.html" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="js\app.ts" />
+    <TypeScriptCompile Include="scripts\app.ts" />
+    <TypeScriptCompile Include="scripts\typings\jquery\jquery.d.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
@@ -51,6 +56,7 @@
     <Content Include="LICENSE" />
     <Content Include="README.md" />
     <None Include="File Target.pubxml" />
+    <Content Include="packages.config" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>

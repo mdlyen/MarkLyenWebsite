@@ -37,6 +37,7 @@
     <Content Include="img\slide-4.jpg" />
     <Content Include="img\slide-5.jpg" />
     <Content Include="index.html" />
+    <Content Include="CV.html" />
     <Content Include="scripts\bootstrap.js" />
     <Content Include="scripts\bootstrap.min.js" />
     <Content Include="scripts\jquery.js" />

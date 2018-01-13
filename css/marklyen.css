@@ -2,9 +2,43 @@
 /** marklyen.com
 /****************************************************************************/
 
-.resMainTitle{font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:14pt;font-weight:700}
-.resCompany{font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:13pt;font-variant:small-caps;font-weight:700}
-.resEducationContent{font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:11pt;margin-left:20px}
-.resJobTitle{font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:11pt;font-style:italic;margin-left:5px}
-.resJobTasks{margin-top:2px;font-family:Verdana, Geneva, Tahoma, sans-serif;font-size:10pt;list-style-position:outside;list-style-type:disc;margin-left:25px;padding-left:1em}
-.resJobTasks li{padding-left:3px;padding-top:3px}
+.resMainTitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+    font-weight: 700
+}
+
+.resCompany {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13pt;
+    font-variant: small-caps;
+    font-weight: 700
+}
+
+.resEducationContent {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt;
+    margin-left: 20px
+}
+
+.resJobTitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11pt;
+    font-style: italic;
+    margin-left: 5px
+}
+
+.resJobTasks {
+    margin-top: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10pt;
+    list-style-position: outside;
+    list-style-type: disc;
+    margin-left: 25px;
+    padding-left: 1em
+}
+
+.resJobTasks li {
+    padding-left: 3px;
+    padding-top: 3px
+}

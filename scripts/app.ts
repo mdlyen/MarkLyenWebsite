@@ -3,4 +3,6 @@
 namespace App {
     $("header").load("../header.html");
     $("footer").load("../footer.html");
+
+    $("defat").focus();
 }

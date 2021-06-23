@@ -1,0 +1,11 @@
+{
+  "name": "MarkLyenWebsite",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.5"
+  }
+}
